@@ -1,10 +1,10 @@
-# 💻 Hey, I'am Ferner Bg.
+# 💻 Hey, I'am FerneyBG
 
-![Logo](https://github.com/DeveloperTI0001/DeveloperTI0001/blob/main/banner.png)
+![Logo](https://github.com/FerneyBG/FerneyBG/blob/main/logo.png)
 
 * I am a Full Stack developer from 🇨🇴 Colombia.
 * Founder of Tommy Shelby (DISCORD BOT).
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperTI0001&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NeyBg23&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyBg23&hide_progress=false)
