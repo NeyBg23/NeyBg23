@@ -15,7 +15,7 @@ FerneyBg</a></h1>
 
 # 💻 Hey, I'am FerneyBG
 
-![Logo](https://github.com/DeveloperTI0001/DeveloperTI0001/blob/main/banner.png)
+![Logo](https://github.com/NeyBg23/NeyBg23/blob/main/f73d0886-c81c-44ca-ad5e-8ba3ec08ecf3.png)
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
