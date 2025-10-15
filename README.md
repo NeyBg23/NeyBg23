@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 FerneyBg</a></h1>
-<h3 align="center">A pasionado a ser Mejor Persona y Mejor programador  &#127470;&#127475</h3>
+<h3 align="center">A pasionado a ser Mejor Persona y Mejor programador</h3>
 <p align="left">
   <a href="https://github.com/NeyBg23?tab=repositories">
     <img src="https://img.shields.io/badge/Repositorios-5-blue?logo=github" alt="Repositorios">
